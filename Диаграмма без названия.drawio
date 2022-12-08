@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-12-08T15:42:46.317Z" agent="5.0 (X11; Ubuntu)" etag="oxyd4sJFpLAuICZmt-Xs" version="20.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-08T15:48:10.426Z" agent="5.0 (X11; Ubuntu)" etag="pF9iRtH8mmxvqQq7fY38" version="20.6.0" type="github">
   <diagram id="Yr7s-QWioUc8-iMmHpMV" name="Страница 1">
-    <mxGraphModel dx="1422" dy="721" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1673" dy="848" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -194,7 +194,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="8VfVcRuJm2VkB9UWDhTg-20" value="&lt;table style=&quot;table-layout:fixed;font-size:10pt;font-family:Arial;width:0px;border-collapse:collapse;border:none&quot; dir=&quot;ltr&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot; border=&quot;1&quot;&gt;&lt;colgroup&gt;&lt;col width=&quot;112&quot;&gt;&lt;col width=&quot;14&quot;&gt;&lt;/colgroup&gt;&lt;tbody&gt;&lt;tr style=&quot;height:21px;&quot;&gt;&lt;td data-sheets-value=&quot;{&amp;quot;1&amp;quot;:2,&amp;quot;2&amp;quot;:&amp;quot;Команда 3&amp;quot;}&quot; style=&quot;overflow:hidden;padding:2px 3px 2px 3px;vertical-align:bottom;&quot;&gt;Команда 3&lt;/td&gt;&lt;td style=&quot;overflow:hidden;padding:2px 3px 2px 3px;vertical-align:bottom;&quot;&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;height:21px;&quot;&gt;&lt;td data-sheets-value=&quot;{&amp;quot;1&amp;quot;:2,&amp;quot;2&amp;quot;:&amp;quot;Борис, Валентин&amp;quot;}&quot; style=&quot;overflow:hidden;padding:2px 3px 2px 3px;vertical-align:bottom;&quot;&gt;Борис, Валентин&lt;/td&gt;&lt;td data-sheets-value=&quot;{&amp;quot;1&amp;quot;:3,&amp;quot;3&amp;quot;:2}&quot; style=&quot;overflow:hidden;padding:2px 3px 2px 3px;vertical-align:bottom;text-align:right;&quot;&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="850" y="620" width="120" height="60" as="geometry" />
+          <mxGeometry x="820" y="620" width="180" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="8VfVcRuJm2VkB9UWDhTg-21" value="&amp;nbsp;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="560" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8VfVcRuJm2VkB9UWDhTg-22" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.star" vertex="1" parent="1">
+          <mxGeometry x="980" y="636.25" width="40" height="37.5" as="geometry" />
+        </mxCell>
+        <mxCell id="8VfVcRuJm2VkB9UWDhTg-23" value="&amp;nbsp;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="570" width="40" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
